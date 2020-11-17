@@ -11,3 +11,5 @@ search tag: cyberdonker
 https://sdk.bitmoji.com/render/panel/20041615-251425289_18-s5-v1.png?transparent=1&palette=1
 Templates found: 1
 ```
+
+![Image aquired](https://sdk.bitmoji.com/render/panel/20041615-251425289_18-s5-v1.png?transparent=1&palette=1)
