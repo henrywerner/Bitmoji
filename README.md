@@ -2,7 +2,9 @@
 Finds currently available Bitmoji templates with tags that match the user's input. All located templates are saved as a PNG image.
 
 ## Setup
-In `bitmoji_id.txt`, replace the existing text with a desired Bitmoji ID. [This guide](https://github.com/matthewnau/libmoji/wiki/Finding-Your-ID) explains how to find the ID for your own account.
+In `bitmoji_id.txt`, replace the existing text with a desired Bitmoji ID. 
+
+[This guide](https://github.com/matthewnau/libmoji/wiki/Finding-Your-ID) explains how to find the ID for your own account, although some details are outdated. You can use [bitmoji.com/account_v2](https://www.bitmoji.com/account_v2/) if the `log in` button on Bitmoji's homepage is missing.
 
 ## Execution
 ```shell
